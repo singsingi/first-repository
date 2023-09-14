@@ -6,4 +6,6 @@ if __name__ == '__main__':
     pn.is_prime_number(13)
     pn.is_prime_number(24)
     pn.is_prime_number(31)
+    pn.is_prime_number(2121)
+    pn.is_prima_number(0111)
     
